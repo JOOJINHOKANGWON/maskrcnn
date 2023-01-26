@@ -9,3 +9,4 @@ For the automaition, we try to use MASK R-CNN(2017,CVPR)https://arxiv.org/abs/17
 we'd transfer learning for training and evaluation 
 
 ![Untitled (1)](https://user-images.githubusercontent.com/81897022/211227415-f911b002-0ee8-4f1f-92b7-a0374f6e6a6b.png)
+ 
